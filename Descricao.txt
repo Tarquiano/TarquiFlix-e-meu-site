@@ -1,0 +1,12 @@
+ol type a A i I (i é romano)
+ul type Square Circle
+
+Criar uma pagina de apresentação pessoal deve conter:
+
+
+imagem
+lista ordenada (letras minúsculas) de curiosidades
+Lista não ordenada (Square) de lugares que já conheceu
+Lista ordenada (números romanos maiusculos) de lugares que quer conhecer por ordem de poridade
+Linhas horizontais para separar os tópicos 
+Titulos em cada tópico (h1 ou h2?)
